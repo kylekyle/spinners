@@ -22,8 +22,8 @@ title: Math Spinners
 email: kylejking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Custom math spinners for K-12
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/spinners" # the subpath of your site, e.g. /blog
+url: "https://kylekyle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: kyl
 github_username:  kylekyle
 show_downloads: false
