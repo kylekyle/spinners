@@ -21,11 +21,17 @@
 title: Math Spinners
 email: kylejking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Custom math spinners for K-12
+  <p>Spinners are a fun way to practice multiplication and division. </p>
+  <p>Choose a base and spin!
+  The arrow on one side points to a number to multiple or divide with the base and the arrow on the flip side points to the answer.
+  </p>
+  <p>To order a set, reach out to <a href='mail&#116;o&#58;kyl&#101;jk&#105;ng&#64;gm%61il&#46;&#99;%6F&#109;'>kyle&#106;king&#64;gmail&#46;c&#111;m</a>
+  </p>
+
 baseurl: "/spinners" # the subpath of your site, e.g. /blog
 url: "https://kylekyle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: kyl
-github_username:  kylekyle
+# github_username:  kylekyle
 show_downloads: false
 
 # Build settings
