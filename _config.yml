@@ -20,7 +20,7 @@
 
 title: Math Spinners
 email: kylejking@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # markdown heredoc syntax
   <p>Spinners are a fun way to practice multiplication and division. </p>
   <p>Choose a base and spin!
   The arrow on one side points to a number to multiple or divide with the base and the arrow on the flip side points to the answer.

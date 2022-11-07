@@ -47,6 +47,11 @@
   <div class="swiper-button-next"></div>
 </div>
 
+<p>
+  <small><i>Spinner based on <a href="https://www.thingiverse.com/thing:53451">Gear Bearing</a> by <a href="https://www.thingiverse.com/emmett/designs">Emmett Lalish</a>.</i></small>
+  <small><i>Case based on <a href="https://www.printables.com/model/231874-triple-wall-twist-container-customizable">Triple-Wall Twist Container</a> by <a href="https://www.printables.com/social/253240-meshconnoisseur/about">meshconnoisseur</a>.</i></small><br>
+</p>
+
 <script src="//cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
 <!-- Initialize Swiper -->
